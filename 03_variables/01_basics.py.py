@@ -1,7 +1,6 @@
- age = 21 #integer
+age = 21 #integer
 name = "shreya"  #string
 height = 5.6 #float
-
 
 # Rule of defining variable in python 
 # Variable name must start with letter (a-z, A-Z) or underscore(_)
