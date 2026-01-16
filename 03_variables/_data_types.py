@@ -6,7 +6,7 @@
 # List - Ordered mutable collection (eg,(1,2,3))
 # Tuple - Ordered immutable collection (eg ,(1,2,3))
 # Sets - Unordered collection of unique items (eg ,(1,2,3))
-# Dictionary - Key value pairs (eg ,("name":"Alice" , "age",25))
+# Dictionary - Key value pairs (eg ,("name":"Alice" , "age",25)) jujujh
 
 name = "shreya"
 print(name)
