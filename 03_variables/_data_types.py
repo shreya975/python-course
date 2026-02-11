@@ -20,6 +20,6 @@ cgpa = 8.1
 print(cgpa)
 print(type(cgpa))
 
-is_student = True #It can be either True or False
+is_student = False #It can be either True or False
 print(is_student)
 print(type(is_student))
