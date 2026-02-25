@@ -1,6 +1,6 @@
 name = "shreya"
 name = 'shreya'
-name = '''shreya 
-is a 
-good girl'''
+name = """shreya
+ia a good student
+hello"""
 print(name)
