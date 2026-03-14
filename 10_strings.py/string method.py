@@ -10,6 +10,6 @@
 # print(s.capitalize())
 
 text = " hello world "
-print(text.strip()) #output hello world
-print(text.lstrip()) #output hello world 
-print(text.rstrip()) #output hello world 
+print(text.strip()) #output "hello world"
+print(text.lstrip()) #output " hello world"
+print(text.rstrip()) #output "hello world "
