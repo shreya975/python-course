@@ -8,3 +8,5 @@
 # print(s.upper()) 
 # print(s.lower())
 # print(s.capitalize())
+
+text = " hello world "
