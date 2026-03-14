@@ -9,4 +9,7 @@
 # print(s.lower())
 # print(s.capitalize())
 
-text = " hello world "
+text = " Hello World "
+print(text.strip())
+print(text.lstrip())
+print(text.rstrip())
