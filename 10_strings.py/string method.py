@@ -15,4 +15,4 @@ print(text.lstrip()) #output " hello world"
 print(text.rstrip()) #output "hello world "
 
 text = "python is fun and fun and fun "
-print(text.find("is")) 
+print(text.find("is")) # output 7 idex of first occurance 
