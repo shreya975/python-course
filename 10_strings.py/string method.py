@@ -20,4 +20,4 @@
 
 text = "Apples, Veggies , Bananas"
 
-print(text.split(","))
+print(text.split("."))
