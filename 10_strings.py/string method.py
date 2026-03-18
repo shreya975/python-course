@@ -18,6 +18,6 @@
 # print(text.find("is")) # output 7 idex of first occurance 
 # print(text.replace("fun", "awesome")
 
-text = "Apples, Veggies , Bananas"
+# text = "Apples, Veggies , Bananas"
 
-print(text.split("."))
+# print(text.split("."))
