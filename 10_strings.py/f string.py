@@ -13,3 +13,6 @@ c1 = 100
 
 s1 = template.format(a,a1)
 print(s1)
+
+s2 = template.format(b,b1)
+print(s2)
