@@ -19,3 +19,5 @@ print(s1)
 
 # s3 = template.format(c,c1)
 # print(s3)
+
+print(f"you are awesome {a}, take this {a1}$ bag")
