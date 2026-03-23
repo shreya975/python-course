@@ -20,8 +20,8 @@ print(s1)
 # s3 = template.format(c,c1)
 # print(s3)
 
-print(f"you are awesome {a}, take this {a1}$ bag")
+# print(f"you are awesome {a}, take this {a1}$ bag")
 
-print(f"you are awesome {b}, take this {b1}$ bag")
+# print(f"you are awesome {b}, take this {b1}$ bag")
 
 print(f"you are awesome {c}, take this {c1}$ bag")
