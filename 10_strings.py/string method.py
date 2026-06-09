@@ -16,8 +16,8 @@
 
 text = "python is fun and fun and fun "
 print(text.find("is")) # output 7 idex of first occurance 
-print(text.replace("fun", "awesome")
+print(text.replace("fun", "awesome"))
 
 text = "Apples, Veggies , Bananas"
 
-print(text.split("."))  )
+print(text.split(",")) # output ['Apples', ' Veggies ', ' Bananas']
